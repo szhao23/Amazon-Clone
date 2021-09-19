@@ -1,0 +1,16 @@
+.loginWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.submit {
+  background-color: orange;
+  color: white;
+  border-color: orange;
+  border-radius: 5px;
+  padding: 5px;
+  height: 30px;
+  width: 145px;
+}
